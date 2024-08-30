@@ -1,0 +1,362 @@
+
+#img1{
+    object-fit: cover;
+aspect-ratio: 2/3;
+overflow: hidden;
+    position: absolute;
+display: flex;
+justify-content: center;
+    background-image: url("image.png");
+    width:16%;
+    height:25%;
+    top: 0%;
+   left: 20%;
+    opacity: 0%;
+z-index: -4;
+
+
+    
+    
+}
+
+#img2{
+    object-fit: cover;
+aspect-ratio: 2/3;
+overflow: hidden;
+position: absolute;
+display: flex;
+justify-content: center;
+    background-image: url("image(1).png");
+    width:16%;
+    height:25%;
+    top: 0%;
+   left: 36%;
+    opacity: 0%;
+z-index: -4;
+
+
+}
+
+#img3{
+    object-fit: cover;
+aspect-ratio: 2/3;
+overflow: hidden;
+position: absolute;
+display: flex;
+justify-content: center;
+    background-image: url("image(2).png");
+    width:16%;
+    height:25%;
+    top: 0%;
+   left: 52%;
+    opacity: 0%;
+z-index: -4;
+
+
+}
+
+#img4{
+    object-fit: cover;
+aspect-ratio: 2/3;
+overflow: hidden;
+position: absolute;
+display: flex;
+justify-content: center;
+    background-image: url("image(3).png");
+    width:16%;
+    height:25%;
+    top: 0%;
+   left: 68%;
+    opacity: 0%;
+z-index: -4;
+
+
+}
+
+#img5{
+    object-fit: cover;
+aspect-ratio: 2/3;
+overflow: hidden;
+position: absolute;
+display: flex;
+justify-content: center;
+    background-image: url("image(4).png");
+    width:16%;
+    height:25%;
+    top: 0%;
+   left: 84%;
+    opacity: 0%;
+z-index: -4;
+
+
+}
+
+#img6{
+    object-fit: cover;
+aspect-ratio: 2/3;
+overflow: hidden;
+position: absolute;
+display: flex;
+justify-content: center;
+    background-image: url("image(5).png");
+    width:16%;
+    height:25%;
+    top: 25%;
+   left: 20%;
+    opacity: 0%;
+z-index: -4;
+
+
+}
+
+#img7{
+    object-fit: cover;
+aspect-ratio: 2/3;
+overflow: hidden;
+position: absolute;
+display: flex;
+justify-content: center;
+    background-image: url("image(6).png");
+    width:16%;
+    height:25%;
+    top: 25%;
+   left: 36%;
+    opacity: 0%;
+z-index: -4;
+
+
+}
+
+#img8{
+    object-fit: cover;
+aspect-ratio: 2/3;
+overflow: hidden;
+position: absolute;
+display: flex;
+justify-content: center;
+    background-image: url("image(7).png");
+    width:16%;
+    height:25%;
+    top: 25%;
+   left: 52%;
+    opacity: 0%;
+z-index: -4;
+
+
+}
+
+#img9{
+    object-fit: cover;
+aspect-ratio: 2/3;
+overflow: hidden;
+position: absolute;
+display: flex;
+justify-content: center;
+    background-image: url("image2.png");
+    width:16%;
+    height:25%;
+    top: 25%;
+   left: 68%;
+    opacity: 0%;
+z-index: -4;
+
+
+}
+
+#img10{
+    object-fit: cover;
+aspect-ratio: 2/3;
+overflow: hidden;
+position: absolute;
+display: flex;
+justify-content: center;
+    background-image: url("image3.png");
+    width:16%;
+    height:25%;
+    top: 25%;
+   left: 84%;
+    opacity: 0%;
+z-index: -4;
+
+
+}
+
+#img11{
+    object-fit: cover;
+aspect-ratio: 2/3;
+overflow: hidden;
+position: absolute;
+display: flex;
+justify-content: center;
+    background-image: url("IMG_0761.png");
+    width:16%;
+    height:25%;
+    top: 50%;
+   left: 20%;
+    opacity: 0%;
+z-index: -4;
+
+
+}
+
+#img12{
+    object-fit: cover;
+aspect-ratio: 2/3;
+overflow: hidden;
+position: absolute;
+display: flex;
+justify-content: center;
+    background-image: url("IMG_5560.png");
+    width:16%;
+    height:25%;
+    top: 50%;
+   left: 36%;
+    opacity: 0%;
+z-index: -4;
+
+
+}
+
+#img13{
+    object-fit: cover;
+aspect-ratio: 2/3;
+overflow: hidden;
+position: absolute;
+display: flex;
+justify-content: center;
+    background-image: url("IMG_5736.png");
+    width:16%;
+    height:25%;
+    top: 50%;
+   left: 52%;
+    opacity: 0%;
+z-index: -4;
+
+
+}
+
+#img14{
+    object-fit: cover;
+aspect-ratio: 2/3;
+overflow: hidden;
+    position: absolute;
+display: flex;
+justify-content: center;
+    background-image: url("IMG_5737.png");
+    width:16%;
+    height:25%;
+    top: 50%;
+   left: 68%;
+    opacity: 0%;
+z-index: -4;
+
+
+}
+
+#img15{
+    object-fit: cover;
+aspect-ratio: 2/3;
+overflow: hidden;
+position: absolute;
+display: flex;
+justify-content: center;
+    background-image: url("IMG_5742.png");
+    width:16%;
+    height:25%;
+    top: 50%;
+   left: 84%;
+    opacity: 0%;
+z-index: -4;
+
+
+}
+
+#img16{
+    object-fit: cover;
+aspect-ratio: 2/3;
+overflow: hidden;
+position: absolute;
+display: flex;
+justify-content: center;
+    background-image: url("IMG_5746.png");
+    width:16%;
+    height:25%;
+    top: 75%;
+   left: 20%;
+    opacity: 0%;
+z-index: -4;
+
+
+}
+
+#img17{
+    object-fit: cover;
+aspect-ratio: 2/3;
+overflow: hidden;
+position: absolute;
+display: flex;
+justify-content: center;
+    background-image: url("My-Eyes.png");
+    width:16%;
+    height:25%;
+    top: 75%;
+   left: 36%;
+    opacity: 0%;
+z-index: -4;
+
+
+}
+
+#img18{
+    object-fit: cover;
+aspect-ratio: 2/3;
+overflow: hidden;
+position: absolute;
+display: flex;
+justify-content: center;
+    background-image: url("Screenshot_2024-07-24_at_3.15.46_PM.png");
+    width:16%;
+    height:25%;
+    top: 75%;
+   left: 52%;
+    opacity: 0%;
+z-index: -4;
+
+
+}
+
+#img19{
+    object-fit: cover;
+aspect-ratio: 2/3;
+overflow: hidden;
+position: absolute;
+display: flex;
+justify-content: center;
+    background-image: url("Screenshot_2024-08-03_at_11.28.10_PM.png");
+    width:16%;
+    height:25%;
+    top: 75%;
+   left: 68%;
+    opacity: 0%;
+z-index: -4;
+
+
+}
+
+#img20{
+    object-fit: cover;
+aspect-ratio: 2/3;
+overflow: hidden;
+position: absolute;
+display: flex;
+justify-content: center;
+    background-image: url("Screenshot_2024-07-15_at_10.24.34_PM.png");
+    width:16%;
+    height:25%;
+    top: 75%;
+   left: 84%;
+    opacity: 0%;
+z-index: -4;
+
+
+}
